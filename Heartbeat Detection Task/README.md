@@ -38,3 +38,5 @@ If you use the Heartbeat Detection (HBD) Task in your work, please cite the foll
 This repository is licensed under the MIT License. See the https://opensource.org/license/mit/ (LICENSE) file for details.
 
 ## Contact
+
+For questions or inquiries, please contact Matias Ezequiel Fraile Vazquez / Paula Salamone (mailto:HeartBit.Intero@gmail.com).
