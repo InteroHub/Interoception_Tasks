@@ -28,6 +28,8 @@ Check image
 
 If you use the Heartbeat Detection (HBD) Task - Touch in your work, please cite the following paper:
 
+- Boehme, R., Hauser, S., Gerling, G. J., Heilig, M., & Olausson, H. (2019). Distinction of self-produced touch and social touch at cortical and spinal cord levels. Proceedings of the National Academy of Sciences, 116(6), 2290-2299.
+
 Paula paper
 
 ## License
