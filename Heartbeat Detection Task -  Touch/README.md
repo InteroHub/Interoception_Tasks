@@ -1,4 +1,4 @@
-# Heartbeat Detection (HBD) Task
+# Heartbeat Detection (HBD) Task - Touch
 
 Welcome to the Heartbeat Detection (HBD) Task - Touch folder! This task contains resources and instructions for conducting the Heartbeat Detection Task - Touch version, a classic interoceptive task used in research and clinical settings.
 
