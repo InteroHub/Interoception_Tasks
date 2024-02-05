@@ -22,7 +22,7 @@ Feel free to use the materials provided in this repository to conduct the Heartb
 
 ## Example Image
 
-![Heartbeat Detection Task](data/GithubLogo/Captura.PNG)
+Check image
 
 ## Citation
 
