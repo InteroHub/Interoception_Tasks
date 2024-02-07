@@ -1,11 +1,12 @@
 # Self Other Touch Task (SOTT)
 
-Welcome to the Heartbeat Detection (HBD) Task - Touch folder! This task contains resources and instructions for conducting the Heartbeat Detection Task - Touch version, a classic interoceptive task used in research and clinical settings.
+Welcome to the Self Other Touch Task (SOTT) -  folder! This task contains resources and instructions for conducting the Self Other Touch Task (SOTT) Behavior/EEG version, a touch task used in research settings.
 
 ## Overview
 
 This is a task with three conditions: stroke the own arm, stroke a pillow or be stroked by the experimenter (Boehme et al. 2019). 
-It allows you to look at electrophysiological differences during self-touch, other-touch, and object touch. 
+It allows you to look at electrophysiological (EEG/ECG and/or others) differences during self-touch, other-touch, and object touch. 
+
 
 
 ## Task Description
