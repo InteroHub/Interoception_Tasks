@@ -6,7 +6,7 @@ Welcome to the Self Other Touch Task (SOTT) -  folder! This task contains resour
 
 This is a task with three conditions: stroke the own arm, stroke a pillow or be stroked by the experimenter (Boehme et al. 2019). 
 It allows you to look at electrophysiological (EEG/ECG and/or others) differences during self-touch, other-touch, and object touch. 
-
+The task was originally created to assess brain-heart interactions during the touch task. 
 
 
 ## Task Description
