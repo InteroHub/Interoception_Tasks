@@ -26,7 +26,7 @@ Contributions are welcome! If you have additional interoception tasks, datasets,
 If you use these tasks in your work, please cite this repository:
 
 @misc{interoception_tasks_repo,
-author = {Matias E. Fraile-Vazquez, Paula Salamone},
+author = {Paula Salamone, Matias E. Fraile-Vazquez},
 title = {Interoception Tasks Repository},
 year = {2024},
 publisher = {GitHub},
