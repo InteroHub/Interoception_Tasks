@@ -9,6 +9,7 @@ Interoception refers to the sense of the internal state of the body. This reposi
 ## Tasks
 ### Heart-related:
 1. **Heartbeat Detection Task**: A classic interoceptive task where participants are asked to detect their own heartbeat. (Matlab Version)
+2. **Self Other Touch Task**:
 
 ## Usage
 
