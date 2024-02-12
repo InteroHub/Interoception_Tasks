@@ -8,8 +8,8 @@ Interoception refers to the sense of the internal state of the body. This reposi
 
 ## Tasks
 ### Heart-related:
-1. **Heartbeat Detection Task**: A classic interoceptive task where participants are asked to detect their own heartbeat. (Matlab Version)
-2. **Self Other Touch Task**:
+1. **Heartbeat Detection Task**: A classic interoceptive task where participants are asked pay attention to own and other heartbeats (attention task) and tap along with heartbeats (behavioral task). (can be performed with EEG/ECG - Matlab Version)
+2. **Self Other Touch Task**: A self/other touch task in where participants are asked to touch their selves (an object as control) or receive touch from experimenter while measuring electrophysiology (Matlab Version). 
 
 ## Usage
 
@@ -40,4 +40,4 @@ This repository is licensed under the MIT License. See the https://opensource.or
 
 ## Contact
 
-For questions or inquiries, please contact Matias Ezequiel Fraile Vazquez / Paula Salamone (mailto:HeartBit.Intero@gmail.com).
+For questions or inquiries, please contact Matias Ezequiel Fraile Vazquez / Dr. Paula Salamone (mailto:paula.salamone@liu.se; HeartBit.Intero@gmail.com).
