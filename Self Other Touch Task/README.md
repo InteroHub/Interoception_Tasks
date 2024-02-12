@@ -15,7 +15,7 @@ Participants are asked to stroke their left arm with the right hand using slow, 
 
 ## Usage
 
-Feel free to use the materials provided in this repository to conduct the Self Other Touch Task (HBD) in your research or clinical practice. The task instructions, stimuli, and data collection procedures are available for customization and adaptation to your specific needs.
+Feel free to use the materials provided in this repository to conduct the Self Other Touch Task (SOTT) in your research or clinical practice. The task instructions, stimuli, and data collection procedures are available for customization and adaptation to your specific needs.
 
 ## Materials
 
