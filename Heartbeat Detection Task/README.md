@@ -25,6 +25,7 @@ Feel free to use the materials provided in this repository to conduct the Heartb
 
 ## Example Image
 ![Heartbeat Detection Task](./data/GithubLogo/interopriming_adapted.png)
+Figure adapted from Salamone, et al., 2021 (https://doi.org/10.1523/JNEUROSCI.2578-20.2021)
 
 ## Citation
 
