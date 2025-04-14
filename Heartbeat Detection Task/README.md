@@ -24,8 +24,7 @@ Feel free to use the materials provided in this repository to conduct the Heartb
 - **Data Collection Forms**: A "log".mat structure will be created with various indexes including RT, ACC, timestamps, EEG events, etc. The structure will be named after the subject code.
 
 ## Example Image
-
-![Heartbeat Detection Task](/data/GithubLogo/interopriming_adapted.png) 
+![Heartbeat Detection Task](./data/GithubLogo/interopriming_adapted.png)
 
 ## Citation
 
