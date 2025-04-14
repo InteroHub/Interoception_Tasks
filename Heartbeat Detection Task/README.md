@@ -25,7 +25,7 @@ Feel free to use the materials provided in this repository to conduct the Heartb
 
 ## Example Image
 
-![Heartbeat Detection Task](/data/GithubLogo/interopriming%20adapted.png) 
+![Heartbeat Detection Task](/data/GithubLogo/interopriming_adapted.png) 
 
 ## Citation
 
@@ -39,4 +39,4 @@ This repository is licensed under the MIT License. See the https://opensource.or
 
 ## Contact
 
-For questions or inquiries, please contact Matias Ezequiel Fraile Vazquez / Paula Salamone (mailto:HeartBit.Intero@gmail.com).
+For questions or inquiries, please contact Matias Ezequiel Fraile Vazquez / Paula Salamone (mailto:HeartBit.Intero@gmail.com, paula.salamone@liu.se).
